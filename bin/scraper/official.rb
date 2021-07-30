@@ -2,7 +2,6 @@
 # frozen_string_literal: true
 
 require 'every_politician_scraper/scraper_data'
-require 'open-uri/cached'
 require 'pry'
 
 class MemberList
@@ -31,5 +30,6 @@ class MemberList
   end
 end
 
-url = 'https://www.presidency.gov.cy/cypresidency/cypresidency.nsf/dmlint_en/dmlint_en?OpenDocument'
-puts EveryPoliticianScraper::ScraperData.new(url).csv
+file = Pathname.new 'html/official.html'
+puts EveryPoliticianScraper::FileData.new(file).csv
+
