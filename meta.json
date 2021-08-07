@@ -1,4 +1,8 @@
 {
+    "jurisdiction": {
+      "name": "Cyprus",
+      "id": "Q229"
+    },
     "cabinet": {
       "id": "Q50083161",
       "start": "2018-03-01"
