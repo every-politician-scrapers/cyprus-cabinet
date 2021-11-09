@@ -5,7 +5,8 @@
     },
     "cabinet": {
       "id": "Q50083161",
-      "start": "2018-03-01"
+      "start": "2018-03-01",
+      "parent": "Q16146568"
     },
     "source": {
         "url":   "https://www.presidency.gov.cy/cypresidency/cypresidency.nsf/dmlint_en/dmlint_en?OpenDocument",
