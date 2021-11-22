@@ -1,0 +1,158 @@
+{
+  "title": "Zeta Emilianidou",
+  "pageID": 58623202,
+  "categories": [
+    "Year of birth missing (living people)",
+    "Living people",
+    "Aristotle University of Thessaloniki alumni",
+    "Cypriot lawyers",
+    "People from Nicosia",
+    "20th-century Cypriot women politicians",
+    "Women lawyers",
+    "Cyprus Ministers of Labour and Social Insurance",
+    "Women government ministers of Cyprus"
+  ],
+  "sections": [
+    {
+      "title": "",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Zeta Emilianidou (Ζέτα Αιμιλιανίδου), is a Cypriot lawyer and politician, since 4 April 2013 Minister of Labour and Social Security of Cyprus in the first and second cabinet of Nicos Anastasiades.",
+              "links": [
+                {
+                  "text": "Minister of Labour and Social Security",
+                  "type": "internal",
+                  "page": "List of Ministers of Labour and Social Insurance of Cyprus"
+                },
+                {
+                  "text": "cabinet",
+                  "type": "internal",
+                  "page": "Anastasiades government"
+                },
+                {
+                  "type": "internal",
+                  "page": "Nicos Anastasiades"
+                }
+              ],
+              "formatting": {
+                "bold": [
+                  "Zeta Emilianidou"
+                ]
+              }
+            },
+            {
+              "text": "She is an independent, not forming part of any political party."
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "Emilianidou was born in Nicosia, and got a degree in Laws by the Aristotle University of Thessaloniki and a master's degree in Marketing by the Cyprus Institute of Marketing.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Nicosia"
+                },
+                {
+                  "type": "internal",
+                  "page": "Aristotle University of Thessaloniki"
+                },
+                {
+                  "type": "internal",
+                  "page": "Cyprus Institute of Marketing"
+                }
+              ]
+            },
+            {
+              "text": "She started in a Bar in 1978, and participated in the negotiation of the entrance of Cyprus to the European Union in 2004 in the Customs and Excise fields.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "European Union"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "images": [
+        {
+          "file": "File:Informal meeting of ministers for employment, social affairs, family and gender equality (iEPSCO). Arrivals Georgia Emilianidou (36020851185).jpg",
+          "thumb": "https://wikipedia.org/wiki/Special:Redirect/file/Informal_meeting_of_ministers_for_employment%2C_social_affairs%2C_family_and_gender_equality_(iEPSCO)._Arrivals_Georgia_Emilianidou_(36020851185).jpg?width=300",
+          "url": "https://wikipedia.org/wiki/Special:Redirect/file/Informal_meeting_of_ministers_for_employment%2C_social_affairs%2C_family_and_gender_equality_(iEPSCO)._Arrivals_Georgia_Emilianidou_(36020851185).jpg",
+          "caption": "Zeta Emilianidou",
+          "links": []
+        }
+      ],
+      "templates": [
+        {
+          "description": "Cypriot lawyer and politician",
+          "template": "short description"
+        }
+      ],
+      "references": [
+        {
+          "template": "citation",
+          "type": "inline",
+          "data": {},
+          "inline": {}
+        },
+        {
+          "template": "citation",
+          "type": "inline",
+          "data": {},
+          "inline": {}
+        },
+        {
+          "template": "citation",
+          "type": "inline",
+          "data": {},
+          "inline": {}
+        },
+        {
+          "template": "citation",
+          "type": "inline",
+          "data": {},
+          "inline": {}
+        }
+      ]
+    },
+    {
+      "title": "References",
+      "depth": 0,
+      "templates": [
+        {
+          "template": "reflist"
+        }
+      ]
+    },
+    {
+      "title": "External links",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": []
+        }
+      ],
+      "templates": [
+        {
+          "id": "ZetaEmilianidou",
+          "template": "twitter"
+        },
+        {
+          "template": "current cyprus cabinet"
+        },
+        {
+          "template": "authority control"
+        },
+        {
+          "template": "cyprus-politician-stub"
+        }
+      ]
+    }
+  ]
+}
