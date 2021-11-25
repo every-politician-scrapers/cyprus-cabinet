@@ -185,7 +185,7 @@
             "text": "September 27, 1946"
           },
           "birth_place": {
-            "text": "Pera Pedi, British Cyprus (now Republic of Cyprus)",
+            "text": "Pera Pedi, British Cyprus (now Cyprus)",
             "links": [
               {
                 "type": "internal",
@@ -194,10 +194,6 @@
               {
                 "type": "internal",
                 "page": "British Cyprus"
-              },
-              {
-                "type": "internal",
-                "page": "Republic of Cyprus"
               }
             ]
           },
@@ -371,9 +367,6 @@
       "title": "President of Cyprus",
       "depth": 0,
       "paragraphs": [
-        {
-          "sentences": []
-        },
         {
           "sentences": [
             {
@@ -573,9 +566,6 @@
       "depth": 1,
       "paragraphs": [
         {
-          "sentences": []
-        },
-        {
           "sentences": [
             {
               "text": "During his electoral campaign for the post of Cyprus President in 2013, he announced his commitment to reduce military conscription in Cyprus to 14 months during the first hundred days of his term."
@@ -663,9 +653,6 @@
       "title": "Cyprus dispute",
       "depth": 1,
       "paragraphs": [
-        {
-          "sentences": []
-        },
         {
           "sentences": [
             {
