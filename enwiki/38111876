@@ -113,63 +113,6 @@
           "type": "web"
         }
       ]
-    },
-    {
-      "title": "Education",
-      "depth": 0,
-      "paragraphs": [
-        {
-          "sentences": [
-            {
-              "text": "Kadis graduated from the University of Athens with a BSc in Biology in 1991.",
-              "links": [
-                {
-                  "type": "internal",
-                  "page": "University of Athens"
-                },
-                {
-                  "type": "internal",
-                  "page": "BSc"
-                }
-              ]
-            },
-            {
-              "text": "He received his PhD from the same university in 1995.",
-              "links": [
-                {
-                  "type": "internal",
-                  "page": "PhD"
-                }
-              ]
-            }
-          ]
-        }
-      ],
-      "references": [
-        {
-          "url": "http://www.frederick.ac.cy/fu_documents/faculty_member_data/short_cv369.pdf",
-          "title": "Academic Staff Curriculum Vitae",
-          "publisher": "Frederick University Cyprus",
-          "accessdate": "20 January 2013}}{{Dead link|date=July 2020 |bot=InternetArchiveBot |fix-attempted=yes |undefined",
-          "template": "citation",
-          "type": "web"
-        }
-      ]
-    },
-    {
-      "title": "References",
-      "depth": 0,
-      "templates": [
-        {
-          "template": "reflist"
-        },
-        {
-          "template": "current cyprus cabinet"
-        },
-        {
-          "template": "cyprus-politician-stub"
-        }
-      ]
     }
   ]
 }
