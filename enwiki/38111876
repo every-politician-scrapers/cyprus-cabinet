@@ -98,20 +98,6 @@
             ]
           }
         }
-      ],
-      "references": [
-        {
-          "url": "http://www.ncu.org.cy/costas_kadis.html",
-          "title": "Costas Kadis",
-          "work": "Nature Conservation Unit",
-          "publisher": "Frederick University",
-          "accessdate": "4 January 2013",
-          "archive-url": "https://archive.today/20130217034408/http://www.ncu.org.cy/costas_kadis.html",
-          "archive-date": "17 February 2013",
-          "url-status": "dead",
-          "template": "citation",
-          "type": "web"
-        }
       ]
     }
   ]
