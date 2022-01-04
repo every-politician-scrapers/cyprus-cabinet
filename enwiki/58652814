@@ -155,19 +155,14 @@
               }
             ]
           },
-          "education": {
-            "text": "Ph.D."
-          },
           "alma_mater": {
-            "text": "QC, NYU, University of Malta, University of Athens",
+            "text": "Queens College, City University of New York New York University University of Malta University of Athens",
             "links": [
               {
-                "text": "QC",
                 "type": "internal",
                 "page": "Queens College, City University of New York"
               },
               {
-                "text": "NYU",
                 "type": "internal",
                 "page": "New York University"
               },
@@ -182,10 +177,10 @@
             ]
           },
           "occupation": {
-            "text": "Politician, Diplomat"
+            "text": "Politician, diplomat"
           },
           "profession": {
-            "text": "Political Scientist, Historian"
+            "text": "Political scientist, historian"
           },
           "signature": {
             "text": "Signature of Nikos Christodoulides.png"
