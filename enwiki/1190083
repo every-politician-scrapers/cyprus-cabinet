@@ -24,7 +24,7 @@
         {
           "sentences": [
             {
-              "text": "Ioannis Kasoulides (Ιωάννης Κασουλίδης; born 10 August 1948 in Nicosia, Cyprus) is a Cypriot politician, party member of DISY, who has served as Minister of Foreign Affairs of Cyprus from 1997 until 2003, and again from 2013 to 2018.",
+              "text": "Ioannis Kasoulides (Ιωάννης Κασουλίδης; born 10 August 1948 in Nicosia, Cyprus) is a Cypriot politician, party member of DISY and current Minister of Foreign Affairs of Cyprus.",
               "links": [
                 {
                   "type": "internal",
@@ -50,6 +50,9 @@
                   "Ioannis Kasoulides"
                 ]
               }
+            },
+            {
+              "text": "He has served in the same position from 1997 until 2003, and again from 2013 to 2018."
             },
             {
               "text": "He was member of the European Parliament from 2004 until 2013.",
@@ -112,6 +115,18 @@
               }
             ]
           },
+          "term_start": {
+            "text": "10 January 2022"
+          },
+          "predecessor": {
+            "text": "Nikos Christodoulides",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Nikos Christodoulides"
+              }
+            ]
+          },
           "president": {
             "text": "Nicos Anastasiades",
             "links": [
@@ -121,13 +136,13 @@
               }
             ]
           },
-          "term_start": {
+          "term_start2": {
             "text": "28 February 2013"
           },
-          "term_end": {
+          "term_end2": {
             "text": "1 March 2018"
           },
-          "predecessor": {
+          "predecessor2": {
             "text": "Erato Kozakou-Marcoullis",
             "links": [
               {
@@ -136,7 +151,7 @@
               }
             ]
           },
-          "successor": {
+          "successor2": {
             "text": "Nikos Christodoulides",
             "links": [
               {
@@ -145,22 +160,22 @@
               }
             ]
           },
-          "president1": {
-            "text": "Glafcos Clerides",
+          "president2": {
+            "text": "Nicos Anastasiades",
             "links": [
               {
                 "type": "internal",
-                "page": "Glafcos Clerides"
+                "page": "Nicos Anastasiades"
               }
             ]
           },
-          "term_start1": {
+          "term_start3": {
             "text": "9 April 1997"
           },
-          "term_end1": {
+          "term_end3": {
             "text": "28 February 2003"
           },
-          "predecessor1": {
+          "predecessor3": {
             "text": "Alekos Michaelides",
             "links": [
               {
@@ -169,7 +184,7 @@
               }
             ]
           },
-          "successor1": {
+          "successor3": {
             "text": "Georgios Iacovou",
             "links": [
               {
@@ -178,7 +193,16 @@
               }
             ]
           },
-          "order2": {
+          "president3": {
+            "text": "Glafcos Clerides",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Glafcos Clerides"
+              }
+            ]
+          },
+          "office4": {
             "text": "Member of the European Parliament",
             "links": [
               {
@@ -187,11 +211,11 @@
               }
             ]
           },
-          "term_start2": {
+          "term_start4": {
             "text": "2004",
             "number": 2004
           },
-          "term_end2": {
+          "term_end4": {
             "text": "2013",
             "number": 2013
           },
