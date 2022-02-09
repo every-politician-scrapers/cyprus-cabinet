@@ -90,21 +90,11 @@
       ],
       "infoboxes": [
         {
-          "honorific-prefix": {
-            "text": "His Excellency",
-            "links": [
-              {
-                "text": "His Excellency",
-                "type": "internal",
-                "page": "Excellency"
-              }
-            ]
-          },
           "name": {
             "text": "Nicos Anastasiades\nΝίκος Αναστασιάδης"
           },
           "image": {
-            "text": "Sánchez y Anastasiades en Palacio de la Moncloa 2021 (3) (cropped).jpg"
+            "text": "Nicos Anastasiades at EPP HQ.jpg"
           },
           "office": {
             "text": "7th President of Cyprus",
@@ -230,9 +220,6 @@
                 "page": "University College London"
               }
             ]
-          },
-          "caption": {
-            "text": "Anastasiades in December 2021"
           },
           "signature": {
             "text": "Nicos anastasiades signature.png"
