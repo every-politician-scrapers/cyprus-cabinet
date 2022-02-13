@@ -20,8 +20,12 @@
         {
           "sentences": [
             {
-              "text": "Nicos Anastasiades (Νίκος Αναστασιάδης ; born 27 September 1946) is a Cypriot politician who has been President of Cyprus since 2013.",
+              "text": "Nicos Anastasiades (Νίκος Αναστασιάδης ; born 27 September 1946) is a  Greek Cypriot  politician who has been President of Cyprus since 2013.",
               "links": [
+                {
+                  "type": "internal",
+                  "page": "Greek Cypriot"
+                },
                 {
                   "type": "internal",
                   "page": "President of Cyprus"
@@ -94,7 +98,7 @@
             "text": "Nicos Anastasiades\nΝίκος Αναστασιάδης"
           },
           "image": {
-            "text": "Nicos Anastasiades at EPP HQ.jpg"
+            "text": "Nicos Anastasiades 2019.jpg"
           },
           "office": {
             "text": "7th President of Cyprus",
