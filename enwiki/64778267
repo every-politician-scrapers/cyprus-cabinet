@@ -1,166 +1,21 @@
 {
-  "title": "George L. Savvides",
-  "pageID": 64778267,
-  "categories": [
-    "Living people",
-    "Cyprus Ministers of Justice and Public Order",
-    "Attorneys-General of Cyprus",
-    "1959 births",
-    "People from Famagusta",
-    "People from Limassol",
-    "Alumni of the University of Exeter",
-    "Cypriot high jumpers",
-    "Cypriot expatriates in the United Kingdom"
-  ],
-  "sections": [
-    {
-      "title": "",
-      "depth": 0,
-      "paragraphs": [
-        {
-          "sentences": [
-            {
-              "text": "George L. Savvides (Γιώργος Λ.",
-              "formatting": {
-                "bold": [
-                  "George L. Savvides"
-                ]
-              }
-            },
-            {
-              "text": "Σαββίδης) is the Attorney-General of the Republic of Cyprus.",
-              "links": [
-                {
-                  "type": "internal",
-                  "page": "Republic of Cyprus"
-                }
-              ]
-            },
-            {
-              "text": "He previously served as Minister of Justice and Public Order of the Republic of Cyprus.",
-              "links": [
-                {
-                  "text": "Minister of Justice and Public Order of the Republic of Cyprus",
-                  "type": "internal",
-                  "page": "Ministry of Justice and Public Order (Cyprus)"
-                }
-              ]
-            }
-          ]
-        }
-      ],
-      "templates": [
-        {
-          "description": "Cypriot politician and attorney",
-          "template": "short description"
-        }
-      ],
-      "infoboxes": [
-        {
-          "name": {
-            "text": "George L. Savvides"
-          },
-          "native_name": {
-            "text": "Γιώργος Λ. Σαββίδης"
-          },
-          "image": {
-            "text": "Γιώργος Λ. Σαββίδης.jpg"
-          },
-          "office": {
-            "text": "Minister of Justice and Public Order of the Republic of Cyprus",
-            "links": [
-              {
-                "text": "Minister of Justice and Public Order of the Republic of Cyprus",
-                "type": "internal",
-                "page": "Ministry of Justice and Public Order (Cyprus)"
-              }
-            ]
-          },
-          "term_start": {
-            "text": "May 31, 2019"
-          },
-          "term_end": {
-            "text": "June 29, 2020"
-          },
-          "president": {
-            "text": "Nicos Anastasiades",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Nicos Anastasiades"
-              }
-            ]
-          },
-          "predecessor": {
-            "text": "Ionas Nicolaou",
-            "links": [
-              {
-                "text": "Ionas Nicolaou",
-                "type": "internal",
-                "page": "Ionas_Nicolaou"
-              }
-            ]
-          },
-          "successor": {
-            "text": "Emili Yioliti"
-          },
-          "office1": {
-            "text": "Attorney-General of Cyprus"
-          },
-          "term_start1": {
-            "text": "June 29, 2020"
-          },
-          "president1": {
-            "text": "Nicos Anastasiades",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Nicos Anastasiades"
-              }
-            ]
-          },
-          "predecessor1": {
-            "text": "Costas Clerides",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Costas Clerides"
-              }
-            ]
-          },
-          "birth_date": {
-            "text": "1959",
-            "number": 1959
-          },
-          "birth_place": {
-            "text": "Famagusta Municipality, Cyprus"
-          },
-          "nationality": {
-            "text": "Cypriot"
-          },
-          "children": {
-            "text": "3",
-            "number": 3
-          },
-          "alma_mater": {
-            "text": "University of Exeter\nMember of The Honourable Society of the Middle Temple",
-            "links": [
-              {
-                "type": "internal",
-                "page": "University of Exeter"
-              },
-              {
-                "text": "Member of The Honourable Society of the Middle Temple",
-                "type": "internal",
-                "page": "Middle Temple"
-              }
-            ]
-          },
-          "caption": {
-            "text": "George L. Savvides"
-          }
-        }
-      ]
-    }
-  ]
+  "name": "George L. Savvides",
+  "native_name": "Γιώργος Λ. Σαββίδης",
+  "image": "Γιώργος Λ. Σαββίδης.jpg",
+  "office": "Minister of Justice and Public Order of the Republic of Cyprus",
+  "term_start": "May 31, 2019",
+  "term_end": "June 29, 2020",
+  "president": "Nicos Anastasiades",
+  "predecessor": "Ionas Nicolaou",
+  "successor": "Emili Yioliti",
+  "office1": "Attorney-General of Cyprus",
+  "term_start1": "June 29, 2020",
+  "president1": "Nicos Anastasiades",
+  "predecessor1": "Costas Clerides",
+  "birth_date": "1959",
+  "birth_place": "Famagusta Municipality, Cyprus",
+  "nationality": "Cypriot",
+  "children": "3",
+  "alma_mater": "University of Exeter\nMember of The Honourable Society of the Middle Temple",
+  "caption": "George L. Savvides"
 }
