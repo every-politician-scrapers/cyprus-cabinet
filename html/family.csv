@@ -1,0 +1,61 @@
+id,name,relationship,relative,relativename
+Q107049021,Giorgos  Koukouma,mother,Q12884514,Skevi Koukouma Koutra
+Q107049720,Christos Christofias,father,Q57334,Dimitris Christofias
+Q107049720,Christos Christofias,mother,Q12872413,Elsi Christofias
+Q107049720,Christos Christofias,sibling,Q97383160,Christina Christofia
+Q107063181,Nikos Georgiou,father,Q64784763,Georgios Georgiou
+Q12884190,Roula Mavronicola,spouse,Q1598789,Kyriakos Mavronikolas
+Q12884514,Skevi Koukouma Koutra,child,Q107049021,Giorgos  Koukouma
+Q1598789,Kyriakos Mavronikolas,spouse,Q12884190,Roula Mavronicola
+Q16208000,Marios Demetriades,father,Q66092594,Andreas Demetriades
+Q200776,Tassos Papadopoulos,child,Q3161181,Nikolas Papadopoulos
+Q200776,Tassos Papadopoulos,relative,Q16331287,Konstantinos Yiorkadjis
+Q23881099,Petros Clerides,relative,Q66093898,Lefkos Clerides
+Q23881194,Kostas Clerides,father,Q66093898,Lefkos Clerides
+Q23881194,Kostas Clerides,relative,Q956928,Giorgos Syrimis
+Q262719,Androula Vassiliou,spouse,Q39180,Giorgos Vasiliou
+Q2957763,Harilaos Stavrakis,relative,Q66736023,Renos Stavrakis
+Q3161181,Nikolas Papadopoulos,father,Q200776,Tassos Papadopoulos
+Q3161181,Nikolas Papadopoulos,relative,Q16331287,Konstantinos Yiorkadjis
+Q317648,Glafcos Clerides,child,Q65942054,Keti Clerides
+Q317648,Glafcos Clerides,father,Q58456663,Ioannis Clerides
+Q317648,Glafcos Clerides,relative,Q65923131,Christos Clerides
+Q317648,Glafcos Clerides,relative,Q66092488,Fivos Clerides
+Q317648,Glafcos Clerides,relative,Q66093162,Nearchos Clerides
+Q317648,Glafcos Clerides,sibling,Q66104215,Xanthos Clerides
+Q317648,Glafcos Clerides,spouse,Q64875993,Lila Irene Clerides
+Q4755398,Andreas Christou,father,Q15161328,Kyriakos Christou
+Q4809655,Yannakis Matsis,sibling,Q6452477,Kyriakos Matsis
+Q4854609,Stavros Malas,relative,Q12886040,Charalampos Mouskos
+Q50364839,Zéta Aimilianídou,sibling,Q65963278,Ouranios Ioannides
+Q511455,Markos Kyprianou,father,Q552389,Spiros Kyprianou
+Q511455,Markos Kyprianou,mother,Q109709702,Mimi Kyprianou
+Q511455,Markos Kyprianou,relative,Q15237847,Spiros Araouzos
+Q53632707,Charalampos Theopemptou,spouse,Q65093838,Evi Theopemptou
+Q552389,Spiros Kyprianou,child,Q511455,Markos Kyprianou
+Q552389,Spiros Kyprianou,relative,Q15237847,Spiros Araouzos
+Q552389,Spiros Kyprianou,relative,Q66724596,Andreas Araouzos
+Q552389,Spiros Kyprianou,spouse,Q109709702,Mimi Kyprianou
+Q57334,Dimitris Christofias,child,Q107049720,Christos Christofias
+Q57334,Dimitris Christofias,child,Q97383160,Christina Christofia
+Q57334,Dimitris Christofias,spouse,Q12872413,Elsi Christofias
+Q64784763,Georgios Georgiou,child,Q107063181,Nikos Georgiou
+Q65497226,Takis Hadjidemetriou,sibling,Q12872536,Ēbē Meleagrou
+Q65553964,Sotiris Sampson,father,Q552189,Nikos Sampson
+Q65923131,Christos Clerides,father,Q66092488,Fivos Clerides
+Q65923131,Christos Clerides,relative,Q317648,Glafcos Clerides
+Q65923131,Christos Clerides,relative,Q58456663,Ioannis Clerides
+Q65923131,Christos Clerides,relative,Q65942054,Keti Clerides
+Q65923131,Christos Clerides,relative,Q66093162,Nearchos Clerides
+Q65923131,Christos Clerides,relative,Q97456249,Christos Kattamis
+Q65942054,Keti Clerides,father,Q317648,Glafcos Clerides
+Q65942054,Keti Clerides,mother,Q64875993,Lila Irene Clerides
+Q65942054,Keti Clerides,relative,Q58456663,Ioannis Clerides
+Q65942054,Keti Clerides,relative,Q65923131,Christos Clerides
+Q65942054,Keti Clerides,relative,Q66092488,Fivos Clerides
+Q65942054,Keti Clerides,relative,Q66093162,Nearchos Clerides
+Q65962643,Isidoros Makrides,father,Q66114126,Nikos Makrides
+Q65963278,Ouranios Ioannides,sibling,Q50364839,Zéta Aimilianídou
+Q7030515,Nikos Tornaritis,father,Q16329358,Giorgos  Tornaritis
+Q7030515,Nikos Tornaritis,sibling,Q98101110,Christophoros  Tornaritis
+Q88414270,Pantelis Kouros,sibling,Q66725213,Andreas Kouros
