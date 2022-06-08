@@ -1,0 +1,21 @@
+{
+    "jurisdiction": {
+      "name": "Cyprus",
+      "id": "Q229"
+    },
+    "cabinet": {
+      "id": "Q50083161",
+      "start": "2018-03-01",
+      "parent": "Q16146568",
+      "government": "Q19358292"
+    },
+    "source": {
+        "url":   "https://www.presidency.gov.cy/cypresidency/cypresidency.nsf/dmlint_en/dmlint_en?OpenDocument",
+        "title": "Council of Ministers Composition",
+        "lang":  {
+            "code": "en",
+            "wikidata": "Q1860"
+        }
+    },
+    "agent": "every-politican-scrapers/cyprus-cabinet"
+}
