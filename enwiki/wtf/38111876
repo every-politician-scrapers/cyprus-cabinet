@@ -1,0 +1,175 @@
+{
+  "title": "Costas Kadis",
+  "pageID": 38111876,
+  "categories": [
+    "Health ministers of Cyprus",
+    "Living people",
+    "Year of birth missing (living people)",
+    "National and Kapodistrian University of Athens alumni",
+    "Cyprus Ministers of Education and Culture",
+    "21st-century Cypriot politicians",
+    "Cyprus Ministers of Agriculture, Natural Resources and the Environment"
+  ],
+  "sections": [
+    {
+      "title": "",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Costas Kadis (Κώστας Καδής) is a Cypriot politician.",
+              "formatting": {
+                "bold": [
+                  "Costas Kadis"
+                ]
+              }
+            },
+            {
+              "text": "He was the Cypriot Minister of Health from July 2007 to February 2008."
+            },
+            {
+              "text": "He served as Minister of Education and Culture in 2014–2018, and as Minister of Agriculture since 2018."
+            }
+          ]
+        }
+      ],
+      "templates": [
+        {
+          "description": "Cypriot politician",
+          "template": "short description"
+        }
+      ],
+      "infoboxes": [
+        {
+          "image": {
+            "text": "Επίσκεψη ΥΦΥΠΕΞ Κυρ. Γεροντόπουλου στην Κύπρο (20-21.11.2014) (15658065020).jpg"
+          },
+          "name": {
+            "text": "Costas Kadis"
+          },
+          "title": {
+            "text": "Cypriot Minister of Health",
+            "links": [
+              {
+                "text": "Cypriot Minister of Health",
+                "type": "internal",
+                "page": "List of Minister of Health of the Republic of Cyprus"
+              }
+            ]
+          },
+          "term_start": {
+            "text": "July 2007"
+          },
+          "term_end": {
+            "text": "February 2008"
+          },
+          "predecessor": {
+            "text": "Charis Charalambous",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Charis Charalambous"
+              }
+            ]
+          },
+          "successor": {
+            "text": "Christos Patsalides",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Christos Patsalides"
+              }
+            ]
+          },
+          "profession": {
+            "text": "physician, politician",
+            "links": [
+              {
+                "text": "physician",
+                "type": "internal",
+                "page": "physician"
+              },
+              {
+                "text": "politician",
+                "type": "internal",
+                "page": "politician"
+              }
+            ]
+          }
+        }
+      ],
+      "references": [
+        {
+          "url": "http://www.ncu.org.cy/costas_kadis.html",
+          "title": "Costas Kadis",
+          "work": "Nature Conservation Unit",
+          "publisher": "Frederick University",
+          "accessdate": "4 January 2013",
+          "archive-url": "https://archive.today/20130217034408/http://www.ncu.org.cy/costas_kadis.html",
+          "archive-date": "17 February 2013",
+          "url-status": "dead",
+          "template": "citation",
+          "type": "web"
+        }
+      ]
+    },
+    {
+      "title": "Education",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Kadis graduated from the University of Athens with a BSc in Biology in 1991.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "University of Athens"
+                },
+                {
+                  "type": "internal",
+                  "page": "BSc"
+                }
+              ]
+            },
+            {
+              "text": "He received his PhD from the same university in 1995.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "PhD"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "references": [
+        {
+          "url": "http://www.frederick.ac.cy/fu_documents/faculty_member_data/short_cv369.pdf",
+          "title": "Academic Staff Curriculum Vitae",
+          "publisher": "Frederick University Cyprus",
+          "accessdate": "20 January 2013}}{{Dead link|date=July 2020 |bot=InternetArchiveBot |fix-attempted=yes |undefined",
+          "template": "citation",
+          "type": "web"
+        }
+      ]
+    },
+    {
+      "title": "References",
+      "depth": 0,
+      "templates": [
+        {
+          "template": "reflist"
+        },
+        {
+          "template": "current cyprus cabinet"
+        },
+        {
+          "template": "cyprus-politician-stub"
+        }
+      ]
+    }
+  ]
+}
