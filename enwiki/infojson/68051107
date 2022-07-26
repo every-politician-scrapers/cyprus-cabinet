@@ -1,0 +1,26 @@
+[
+  {
+    "office": {
+      "links": [
+        "House of Representatives of Cyprus"
+      ],
+      "stated_as": "Member of the House of Representatives"
+    },
+    "P580": "2016-06-02"
+  },
+  {
+    "office": {
+      "links": [
+        "House of Representatives (Cyprus)"
+      ],
+      "stated_as": "President of the House of Representatives"
+    },
+    "P580": "2021-06-10",
+    "P1365": {
+      "links": [
+        "Adamos Adamou"
+      ],
+      "stated_as": "Adamos Adamou"
+    }
+  }
+]

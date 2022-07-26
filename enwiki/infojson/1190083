@@ -1,0 +1,71 @@
+[
+  {
+    "office": {
+      "links": [
+        "List of Ministers of Foreign Affairs of Cyprus"
+      ],
+      "stated_as": "Minister of Foreign Affairs"
+    },
+    "P580": "1997-04-09",
+    "P1365": {
+      "links": [
+        "Alekos Michaelides"
+      ],
+      "stated_as": "Alekos Michaelides"
+    },
+    "P582": "2003-02-28",
+    "P1366": {
+      "links": [
+        "Georgios Iacovou"
+      ],
+      "stated_as": "Georgios Iacovou"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Member of the European Parliament"
+      ],
+      "stated_as": "Member of the European Parliament"
+    },
+    "P580": "2004",
+    "P582": "2013"
+  },
+  {
+    "office": {
+      "links": [
+        "List of Ministers of Foreign Affairs of Cyprus"
+      ],
+      "stated_as": "Minister of Foreign Affairs"
+    },
+    "P580": "2013-02-28",
+    "P1365": {
+      "links": [
+        "Erato Kozakou-Marcoullis"
+      ],
+      "stated_as": "Erato Kozakou-Marcoullis"
+    },
+    "P582": "2018-03-01",
+    "P1366": {
+      "links": [
+        "Nikos Christodoulides"
+      ],
+      "stated_as": "Nikos Christodoulides"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "List of Ministers of Foreign Affairs of Cyprus"
+      ],
+      "stated_as": "Minister of Foreign Affairs"
+    },
+    "P580": "2022-01-11",
+    "P1365": {
+      "links": [
+        "Nikos Christodoulides"
+      ],
+      "stated_as": "Nikos Christodoulides"
+    }
+  }
+]
