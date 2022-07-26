@@ -1,0 +1,50 @@
+[
+  {
+    "office": {
+      "links": [
+        "House of Representatives (Cyprus)",
+        "Limassol District"
+      ],
+      "stated_as": "Member of the House of Representatives from Limassol"
+    },
+    "P580": "1981-06-04",
+    "P582": "2013-02-28"
+  },
+  {
+    "office": {
+      "links": [
+        "Democratic Rally"
+      ],
+      "stated_as": "President of the Democratic Rally"
+    },
+    "P580": "1997-06-08",
+    "P1365": {
+      "links": [
+        "Yiannakis Matsis"
+      ],
+      "stated_as": "Yiannakis Matsis"
+    },
+    "P582": "2013-02-28",
+    "P1366": {
+      "links": [
+        "Averof Neofytou"
+      ],
+      "stated_as": "Averof Neofytou"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "President of Cyprus"
+      ],
+      "stated_as": "7th President of Cyprus"
+    },
+    "P580": "2013-02-28",
+    "P1365": {
+      "links": [
+        "Demetris Christofias"
+      ],
+      "stated_as": "Demetris Christofias"
+    }
+  }
+]
