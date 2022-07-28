@@ -1,0 +1,19 @@
+{
+    "position": "Q19801674",
+    "term": {
+        "id":       "Q107003549",
+        "start":    "2021-06-01"
+    },
+    "lang": "en",
+    "reference": {
+        "P854": "http://www.parliament.cy/en/composition/members-of-the-house/biographical-notes",
+        "P1476": {
+            "text": "House of Representatives - Biographical notes",
+            "language": "en"
+        }
+    },
+    "current_only": "true",
+    "person_description": {
+        "en": "politician in Cyprus"
+    }
+}
